@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.project</groupId>
 	<artifactId>quizapp</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>quizapp</name>
 	<description>Quiz App</description>
 	<url/>
